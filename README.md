@@ -21,4 +21,4 @@ Launch the tool:
 ```
 
 Provide required inputs:
-When prompted, specify the target username and the path to your wordlist (e.g., ```/usr/share/wordlists/rockyou.txt```) to initiate the local brute-force attack.
+When prompted, specify the target **username** and the path to your **wordlist** (e.g., ```/usr/share/wordlists/rockyou.txt```) to initiate the local brute-force attack.
